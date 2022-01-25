@@ -4,9 +4,11 @@ Repositório criado para desafio onde a proprosta é reforçar os conhecimentos 
 # Comandos utilizados
 Para praticar utilizei os seguintes comandos:
 - git init: para inicializar o versionamento;
+- git status; 
+- git add * : para atualizar; 
 - git commit: para staging area;
 - git push: para o servidor;
-- git pull: para atualizar o código;
+- git pull;  
 - git clone: para trazer o repósitorio para a máquina;
 
 # Dificuldades

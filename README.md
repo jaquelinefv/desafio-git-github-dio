@@ -1,2 +1,4 @@
-# DESAFIO DE PROJETO GIT/GITHUB DA DIO 💻
-Repositório criado para o projeto
+# Desafio de Projeto Git/GitHub da DIO 💻
+Repositório criado para desafio onde a proprosta é reforçar os conhecimentos básicos aprendidos durante o curso; Introdução ao Git e GitHub.
+
+

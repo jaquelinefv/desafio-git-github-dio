@@ -13,7 +13,7 @@ Para praticar utilizei os seguintes comandos:
 
 # Dificuldades
 Durante o processo de push, houve uma rejeição pois havia uma alteração nova no README feita no próprio GitHub após o git clone.
-Para dar seguimento,utilizei o git pull e alterei o documento markdown e salvei, assim atualizando e dando sequ~encia com o git push novamente.
+Para dar seguimento,utilizei o git pull e alterei o documento markdown e salvei, assim atualizando e dando sequência com o git push novamente.
 
 # Site Final 
 O Site Final é um projeto no qual eu desenvolvi durante meu aprendizado nos cursos que realizei na plataforma Fundação Bradesco, onde desenvolvi meu primeiro site. 

@@ -1,2 +1,2 @@
-# DESAFIO DE PROJETO GIT E GITHUB DA DIO 💻
+# DESAFIO DE PROJETO GIT/GITHUB DA DIO 💻
 Repositório criado para o projeto
